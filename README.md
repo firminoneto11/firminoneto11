@@ -1,11 +1,7 @@
 # Hello :) 👋
 ## My name is Firmino Neto, and i am a tech lover!
 
-<hr/>
-
 I am a computer science student at Estácio de Sá and also a self-taught Web Developer. Im learning __Python__ for web applications that requires backend and __HTML__, __CSS__ and __JavaScript__ for frontend in order to become a fullstack developer!
-
-<br/>
 
 Here's a [link](https://firminoneto.netlify.app/) to my portfolio website.
 
