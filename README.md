@@ -9,11 +9,15 @@ I am a computer science student at Estácio de Sá and also a self-taught Web De
 
 Here's a [link](https://firminoneto.netlify.app/) to my portfolio website.
 
-<br/>
 <hr/>
 
 - 🌱 I’m currently learning **Python** | **HTML** | **CSS** | **JavaScript**
 - ⚡ Fun fact: I love World of Warcraft!
+
+<hr/>
+### Technologies:
+
+<hr/>
 
 <br/>
 
