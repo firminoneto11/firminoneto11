@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hello :) 👋
+## My name is Firmino Neto, and i am a tech lover!
 
+I am a computer science student at Estácio de Sá and also a self-taught Web Developer. Im learning Python for web applications that requires backend and HTML, CSS and JavaScript for frontend!
 <!--
 **firminoneto11/firminoneto11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firminoneto11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
