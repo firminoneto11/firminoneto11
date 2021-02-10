@@ -13,8 +13,7 @@ Here's a [link](https://firminoneto.netlify.app/) to my portfolio website.
 <hr/>
 
 <div align='center'><h3>Technologies that i use - </h3></div>
-
-
+<br/>
 <div align='center'>
 <img src="https://img.shields.io/badge/Python-yellowgreen?style=for-the-badge&logo=python&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
@@ -28,7 +27,6 @@ Here's a [link](https://firminoneto.netlify.app/) to my portfolio website.
 <hr/>
 
 <div align='center'><h3>Contact me - </h3></div>
-<br/>
 <br/>
 <div align='center'>
 <a href="https://www.linkedin.com/in/firmino-neto-4a0010158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
