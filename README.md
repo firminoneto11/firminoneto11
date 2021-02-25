@@ -1,13 +1,13 @@
 # Hello :) 👋👋👋
 ## My name is Firmino Neto, and i am a tech lover!
 
-I am a computer science student at Estácio de Sá and also a self-taught Web Developer. Im learning __Python__ for web applications that requires backend and __HTML__, __CSS__ and __JavaScript__ for frontend in order to become a fullstack developer!
+I am a computer science student at Estácio de Sá and also a self-taught Web Developer. Im learning __Python__, __SQL__ and __Django__ for web applications that requires backend and __HTML__, __CSS__ and __JavaScript__ for frontend in order to become a fullstack developer!
 
 Here's a [link](https://firminoneto.netlify.app/) to my portfolio website.
 
 <hr/>
 
-- 📚 I’m currently learning **Python** | **HTML** | **CSS** | **JavaScript**
+- 📚 I’m currently learning **Python** | **SQL** | **Django**
 - 🎮 Fun fact: I love World of Warcraft!
 
 <hr/>
@@ -22,6 +22,8 @@ Here's a [link](https://firminoneto.netlify.app/) to my portfolio website.
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"></img>
 <img src="https://img.shields.io/badge/PyCharm-brightgreen?style=for-the-badge&logo=PyCharm&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Django-sucess?style=for-the-badge&logo=django&logoColor=white"></img>
 </div>
 
 <hr/>
