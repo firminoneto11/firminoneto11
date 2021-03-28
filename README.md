@@ -1,13 +1,13 @@
 # Hello :) 👋👋👋
 ## My name is Firmino Neto, and i am a tech lover!
 
-I am a computer science student at Estácio de Sá and also a self-taught Web Developer. Im learning __Python__, __SQL__ and __Django__ for web applications that requires backend and __HTML__, __CSS__ and __JavaScript__ for frontend in order to become a fullstack developer!
+I am a computer science student at Estácio de Sá and also a self-taught Web Developer. Im learning, __SQL__ and __Django__ for web applications that requires backend and __HTML__, __CSS__ and __JavaScript__ for frontend in order to become a fullstack developer!
 
 Here's a [link](https://firminoneto.netlify.app/) to my portfolio website.
 
 <hr/>
 
-- 📚 I’m currently learning **Python** | **SQL** | **Django**
+- 📚 I’m currently learning **SQL** | **Django**
 - 🎮 Fun fact: I love World of Warcraft!
 
 <hr/>
