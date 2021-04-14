@@ -3,7 +3,7 @@
 <h1>Firmino Neto - Python Developer</h1>
 </div>
 <p>
-I am a Computer Science student at Estácio de Sá University and also a self-taught Web Developer. Im currently learning <b>SQL</b> and <b>Django</b> for web applications that requires backend and looking forward to learn <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b> as well, for frontend in order to become a fullstack developer!
+I am a Computer Science student at Estácio de Sá University and also a self-taught Python Developer. Im currently learning <b>SQL</b> and <b>Django</b> for web applications that requires backend and looking forward to learn <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b> as well, for frontend in order to become a fullstack developer!
 </p>
 <hr/>
 <!--Skills-->
