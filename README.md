@@ -3,7 +3,7 @@
 <h1>Firmino Neto - Python Developer</h1>
 </div>
 <p>
-I am a Computer Science student at Estácio de Sá University and also a self-taught Python Developer. Im currently learning <b>SQL</b> and <b>Django</b> for web applications that requires backend and looking forward to learn <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b> as well, for frontend in order to become a fullstack developer!
+I am a Computer Science student at Estácio de Sá University and also a self-taught Python Developer. Im currently learning <b>SQL</b> and <b>Django</b> for web applications that requires backend and looking forward to learn <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b> for frontend as well, in order to become a fullstack developer!
 </p>
 <hr/>
 <!--Skills-->
@@ -23,7 +23,7 @@ I am a Computer Science student at Estácio de Sá University and also a self-ta
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img height='40' src='https://www.vectorlogo.zone/logos/github/github-tile.svg'>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
@@ -45,6 +45,13 @@ I am a Computer Science student at Estácio de Sá University and also a self-ta
 </div>
 
 <!--
+Another icon
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Github Original
+
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 -->
