@@ -1,56 +1,49 @@
-# Hello :) 👋👋👋
-## My name is Firmino Neto, and i am a tech lover!
-
-I am a computer science student at Estácio de Sá and also a self-taught Web Developer. Im learning, __SQL__ and __Django__ for web applications that requires backend and __HTML__, __CSS__ and __JavaScript__ for frontend in order to become a fullstack developer!
-
-Here's a [link](https://firminoneto.netlify.app/) to my portfolio website.
-
+<!--Introduction-->
+<div align='center'>
+<h1>Firmino Neto - Python Developer</h1>
+</div>
+<p>
+I am a Computer Science student at Estácio de Sá University and also a self-taught Web Developer. Im currently learning <b>SQL</b> and <b>Django</b> for web applications that requires backend and looking forward to learn <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b> as well, for frontend in order to become a fullstack developer!
+</p>
 <hr/>
-
-- 📚 I’m currently learning **SQL** | **Django**
-- 🎮 Fun fact: I love World of Warcraft!
-
-<hr/>
-
-<div align='center'><h3>Technologies that i use - </h3></div>
+<!--Skills-->
+<div align='center'><h2>Skills</h2></div>
 <br/>
 <div align='center'>
-<img src="https://img.shields.io/badge/Python-yellowgreen?style=for-the-badge&logo=python&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"></img>
-<img src="https://img.shields.io/badge/PyCharm-brightgreen?style=for-the-badge&logo=PyCharm&logoColor=white"></img>
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Django-sucess?style=for-the-badge&logo=django&logoColor=white"></img>
+
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <!--
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github-black/github-black.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    -->
+
 </div>
-
 <hr/>
-
-<div align='center'><h3>Contact me - </h3></div>
+<!--Contact-->
+<div align='center'><h2>Contact me - </h2></div>
 <br/>
 <div align='center'>
 <a href="https://www.linkedin.com/in/firmino-neto-4a0010158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://www.instagram.com/firminoneto11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-<a href="https://twitter.com/neto_firmino11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 <a href="mailto:firminoneto321@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 </div>
-
 <hr/>
+<!--Most Used languages-->
+<div align='center'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firminoneto11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**firminoneto11/firminoneto11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
