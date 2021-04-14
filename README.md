@@ -25,10 +25,6 @@ I am a Computer Science student at Estácio de Sá University and also a self-ta
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <!--
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github-black/github-black.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    -->
 
 </div>
 <hr/>
@@ -47,3 +43,8 @@ I am a Computer Science student at Estácio de Sá University and also a self-ta
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firminoneto11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<!--
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+-->
