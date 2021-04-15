@@ -32,9 +32,9 @@ I am a Computer Science student at Estácio de Sá University and also a self-ta
 <div align='center'><h2>Contact me - </h2></div>
 <br/>
 <div align='center'>
-<a href="https://www.linkedin.com/in/firmino-neto-4a0010158/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://www.instagram.com/firminoneto11/" target=_blank><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-<a href="mailto:firminoneto321@gmail.com" target='_blank'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/firmino-neto-4a0010158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://www.instagram.com/firminoneto11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a href="mailto:firminoneto321@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 </div>
 <hr/>
 <!--Most Used languages-->
@@ -46,6 +46,7 @@ I am a Computer Science student at Estácio de Sá University and also a self-ta
 
 <!--
 Another icon
+
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
