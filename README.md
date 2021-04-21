@@ -3,7 +3,7 @@
 <h1>Firmino Neto - Python Developer</h1>
 </div>
 <p>
-I am a Computer Science student at Estácio de Sá University and also a self-taught Python Developer. Im currently learning <b>SQL</b> and <b>Django</b> for web applications that requires backend and looking forward to learn <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b> for frontend as well, in order to become a fullstack developer!
+I am a Computer Science student at Estácio de Sá University and also a self-taught Python Developer. Im currently learning <b>Django</b> and <b>JavaScript</b>, but also i'm looking forward to learn more of <b>HTML</b> and <b>CSS</b> for frontend as well, in order to become a fullstack developer!
 </p>
 <hr/>
 <!--Skills-->
@@ -11,21 +11,21 @@ I am a Computer Science student at Estácio de Sá University and also a self-ta
 <br/>
 <div align='center'>
 
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+    <img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height='30' src='https://www.vectorlogo.zone/logos/github/github-tile.svg'>
+    <img height='40' src='https://www.vectorlogo.zone/logos/github/github-tile.svg'>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
@@ -49,12 +49,12 @@ I am a Computer Science student at Estácio de Sá University and also a self-ta
 <!--
 Another icon
 
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Github Original
 
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 -->
