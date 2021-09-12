@@ -1,19 +1,22 @@
 <!--Introduction-->
 <div align='center'>
-<h1>Firmino Neto - Fullstack developer</h1>
+<h1>Firmino Neto - Software Engineer</h1>
 </div>
 <p>
-I am a Computer Science student at Estácio de Sá University and also a self-taught web developer. Im currently learning <b>Django</b> and <b>JavaScript</b>, but also i'm looking forward to learn more of <b>HTML</b> and <b>CSS</b> for frontend as well, in order to become a fullstack developer!
+Hello everybody! My name is Firmino Neto and im a computer science student at Estácio de Sá university. Today i'm focused on becoming a Fullstack Software Engineer and mastering the skills needed in order to do so. I hope you all enjoy my projects here and if you want to contact me you can do so through my <a href="https://www.linkedin.com/in/firminoneto11/">linkedin</a>.
 </p>
-<hr/>
+<hr>
+
 <!--Skills-->
 <div align='center'><h2>Skills</h2></div>
-<br/>
+<br>
 <div align='center'>
 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://upload.wikimedia.org/wikipedia/de/0/0e/Django-logo.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://miro.medium.com/max/2000/1*hRrsnPfpb5qbnCqc5uYrOA.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,14 +36,7 @@ I am a Computer Science student at Estácio de Sá University and also a self-ta
 
 </div>
 <hr/>
-<!--Contact-->
-<div align='center'><h2>Contact me</h2></div>
-<br/>
-<div align='center'>
-<a href="https://www.linkedin.com/in/firmino-neto-4a0010158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://www.instagram.com/firminoneto11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-</div>
-<hr/>
+<br>
 <!--Most Used languages-->
 <div align='center'>
 
