@@ -45,9 +45,9 @@ I hope you all enjoy my projects here and if you want to contact me you can do s
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firminoneto11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<p>
+<div align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=firminoneto11&show_icons=true&locale=en&layout=compact&theme=gotham" alt="firminoneto11" />
-</p>
+</div>
 
 <!--
 <p>
