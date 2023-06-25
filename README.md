@@ -49,6 +49,8 @@ I hope you all enjoy my projects here and if you want to contact me you can do s
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=firminoneto11&show_icons=true&locale=en&layout=compact&theme=gotham" alt="firminoneto11" />
 </p>
 
+<!--
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=firminoneto11&show_icons=true&locale=en&theme=gotham" alt="firminoneto11" />
 </p>
+-->
