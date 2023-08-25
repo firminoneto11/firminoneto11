@@ -4,7 +4,7 @@
 
 I'm a Software Engineer in love with solving complex problems with code.
 
-I'm currently working at [Lize](https://www.linkedin.com/company/lizeai/) as a Backend Software Engineer, but i also have experience as Full Stack too. I also have a bachelor's degree in Computer Science and i'm always seeking for knowledge and experiences to keep challenging myself and with that, getting a little better, day after day.
+I'm currently working at [Spotlar](https://www.linkedin.com/company/spotlar/) as a Backend Software Engineer, but i also have experience as Full Stack too. I also have a bachelor's degree in Computer Science and i'm always seeking for knowledge and experiences to keep challenging myself and with that, getting a little better, day after day.
 
 I hope you all enjoy my projects here and if you want to contact me you can do so through my [linkedin](https://www.linkedin.com/in/firminoneto11/).
 
